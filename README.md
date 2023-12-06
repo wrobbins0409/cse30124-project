@@ -8,12 +8,12 @@ This is the [Final Project] of [CSE.30124.FA23] at the University of Notre Dame.
 
 ## Training Script
 
-The file "sentiment_analysis_train.py" shows the code used to fine-tune the base model and has removed the login token and name of the fine
+The file [sentiment_analysis_train.py](sentiment_analysis_train.py) shows the code used to fine-tune the base model and has removed the login token and name of the fine
 tuned model to allow for reproduction by other users.
 
 ## Demonstration
 
-The file [here](introToAI_Project.ipynb) is a colab notebook file used to show how to use my fine-tuned model and also compare it with classical
+The file [introToAI_Project.ipynb](introToAI_Project.ipynb) is a colab notebook file used to show how to use my fine-tuned model and also compare it with classical
 lexical-based sentiment analysis and additionally compare it to the HuggingFace model finetuned on the same data.
 
 ## Errata
